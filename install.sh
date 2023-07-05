@@ -6,10 +6,7 @@ export PATH
 #   Description: L2TP VPN Auto Installer                                #
 #             Linux 一键安装L2TP脚本 (汉化定制版)                         #
 #                                                                       #
-#                   Telegram：@Bill_999                               #
-#                     我的网站：zymfq.com                                #
-#                        微信:lvduroot                                  #
-#                  技术支持联系我Tlelgram: @Sunny_8888                   #
+#                  技术支持联系我Tlelgram: @QS00008                      #
 #                                                                       #
 #=======================================================================#
 cur_dir=`pwd`
@@ -661,9 +658,7 @@ finally(){
     echo "# System Supported: CentOS 6+ / Debian 7+ / Ubuntu 12+        #"
     echo "#          Linux 一键安装L2TP脚本 (汉化定制版)                  #"
     echo "#                                                             #"
-    echo "#                   Telegram：@Bill_999                       #"
-    echo "#                     我的网站：js8c.xyz                       #"
-    echo "#                        微信:lvduroot                         #"
+    echo "#                   Telegram：@QS00008                        #"
     echo "###############################################################"
     echo "###############################################################"
     echo "如果上面没有[FAILED]，您可以连接到您的L2TP "
@@ -694,9 +689,7 @@ l2tp(){
     echo "# System Supported: CentOS 6+ / Debian 7+ / Ubuntu 12+        #"
     echo "#          Linux 一键安装L2TP脚本 (定制版)                      #"
     echo "#                                                             #"
-    echo "#                   Telegram：@Bill_999                       #"
-    echo "#                     我的网站：js8c.xyz                       #"
-    echo "#                        微信:lvduroot                         #"
+    echo "#                   Telegram：@QS00008                        #"
     echo "###############################################################"
     echo
     rootness
